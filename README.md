@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, i am Yashasvi, aa BTech student at IIT Ropar. I am currently working on webd projects.
+Hi, i am Yashasvi, a BTech student at IIT Ropar. I am currently working on webd projects.
 <!--
 **yashasviy/yashasviy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
